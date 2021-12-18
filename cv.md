@@ -18,7 +18,6 @@
 
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/rsschool-cv/assets/css/style.css?v=5cef5258b35fe557ebc566a5673ca03090d3e2cc">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
