@@ -23,9 +23,9 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="rsschool-cv"><strong><a href="https://github.com/Belsnikel/rsschool-cv">rsschool-cv</a></strong></h1>
 
-<h1 id="andrei-kryvetski"><strong>Oleg Kabolov</strong></h1>
+
+<h1 id="Oleg-Kabolov"><strong>Oleg Kabolov</strong></h1>
 
 <h2 id="contacts"><strong>Contacts</strong></h2>
 <ul>
@@ -85,8 +85,7 @@
 
       
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+
     
   </body>
 </html>
