@@ -16,7 +16,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="rsschool-cv" />
 <script type="application/ld+json">
-{"url":"https://github.com/Belsnikel/rsschool-cv","@type":"WebPage","headline":"rsschool-cv","@context":"https://schema.org"}</script>
+{"url":"https://github.com/Belsnikel/rsschool-cv"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/rsschool-cv/assets/css/style.css?v=5cef5258b35fe557ebc566a5673ca03090d3e2cc">
