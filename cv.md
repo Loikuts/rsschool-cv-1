@@ -31,7 +31,7 @@
 <ul>
   <li><strong>Location:</strong> Russia, Vladikavkaz</li>
   <li><strong>Phone:</strong> +7 222-33-55</li>
-  <li><strong>Email:</strong> afterouy@gmail.com</li>
+  <li><strong>Email:</strong> ghjgmouy@gmail.com</li>
   <li><strong>GitHub:</strong> <a href="https://github.com/Belsnikel">Belsnikel</a></li>
 </ul>
 
